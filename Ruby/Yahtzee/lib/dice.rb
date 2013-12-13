@@ -1,4 +1,3 @@
-#small change
 class Dice
   attr_reader :dice
   def initialize
